@@ -8,7 +8,7 @@
 ## 🧑‍💻 Sobre mí
 
 Desarrollador Full Stack especializado en backend, frontend, mobile y cloud infrastructure.  
-Experiencia en diseño de arquitecturas escalables, automatización DevOps y despliegues en Google Cloud.
+Experiencia en diseño de arquitecturas escalables, automatización DevOps, workflows inteligentes y despliegues en Google Cloud.
 
 ---
 
@@ -40,7 +40,7 @@ Experiencia en diseño de arquitecturas escalables, automatización DevOps y des
 - Nuxt.js
 - Tailwind CSS
 - Responsive & Mobile First Design
-- PWA Applications
+- Progressive Web Apps (PWA)
 
 ---
 
@@ -55,7 +55,7 @@ Experiencia en diseño de arquitecturas escalables, automatización DevOps y des
 - MongoDB
 - Firebase
 - SQL Server
-- Optimización y modelado de datos
+- Modelado y optimización de datos
 
 ---
 
@@ -68,13 +68,28 @@ Experiencia en diseño de arquitecturas escalables, automatización DevOps y des
 - Google Cloud Platform (GCP)
 - Cloud Run
 - Load Balancers
-- CI/CD Pipelines
 - Docker Containers
+- CI/CD Pipelines
 - GitHub Actions
 - Linux Server Administration
 - Nginx / Apache
 - DNS & Networking
 - SSL & Seguridad Web
+
+---
+
+## ⚡ Automatización & Integraciones
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=n8n" />
+</p>
+
+- n8n Workflow Automation
+- Integración de APIs
+- Automatización de procesos
+- Webhooks & Event-driven workflows
+- Orquestación de servicios
+- Automatización empresarial (ERP / SaaS)
 
 ---
 
@@ -84,7 +99,7 @@ Experiencia en diseño de arquitecturas escalables, automatización DevOps y des
 - Despliegue Continuo (CD)
 - Automatización de pipelines
 - Manejo de entornos Dev / QA / Production
-- Monitoreo y Logging
+- Monitoreo y logging
 - Escalabilidad horizontal
 
 ---
@@ -106,6 +121,7 @@ Experiencia en diseño de arquitecturas escalables, automatización DevOps y des
 🚀 Construyendo:
 - Plataformas SaaS
 - Apps móviles multiplataforma
+- Automatizaciones con n8n
 - Infraestructura cloud automatizada
 - Sistemas empresariales ERP
 
