@@ -1,110 +1,122 @@
 # 👋 Hola, soy Fernando Casame
 
 💻 **Full Stack Developer | Cloud Engineer | Software Architect**  
-🚀 Apasionado por crear soluciones escalables, modernas y eficientes utilizando tecnologías web, móviles y cloud.
+🚀 Construyendo aplicaciones escalables, modernas y cloud-native.
 
 ---
 
 ## 🧑‍💻 Sobre mí
 
-Soy desarrollador de software con experiencia en el diseño, desarrollo y despliegue de aplicaciones modernas orientadas a alto rendimiento y escalabilidad.  
-Trabajo tanto en **backend**, **frontend**, **mobile** y **cloud infrastructure**, aplicando buenas prácticas de arquitectura, automatización y DevOps.
-
-Me enfoco en construir productos robustos, optimizados y listos para producción usando tecnologías modernas y servicios cloud.
+Desarrollador Full Stack especializado en backend, frontend, mobile y cloud infrastructure.  
+Experiencia en diseño de arquitecturas escalables, automatización DevOps y despliegues en Google Cloud.
 
 ---
 
-## ⚙️ Tecnologías y Herramientas
+## 🧠 Lenguajes de Programación
 
-### 🧠 Lenguajes & Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,java,python,nodejs,cs,js,ts" />
+</p>
+
 - Laravel (PHP)
 - Java
 - Python
 - Node.js
 - C#
-- REST APIs
-- Microservicios
-- Arquitectura limpia (Clean Architecture)
-- APIs REST & GraphQL
+- JavaScript / TypeScript
 
 ---
 
-### 🎨 Frontend & Mobile
+## 🎨 Frontend & Mobile
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,reactnative,flutter,nuxtjs,tailwind,html,css" />
+</p>
+
 - Next.js
+- React
 - React Native
 - Flutter
 - Nuxt.js
-- React
 - Tailwind CSS
-- HTML5 / CSS3 / JavaScript / TypeScript
-- Responsive Design
-- Progressive Web Apps (PWA)
+- Responsive & Mobile First Design
+- PWA Applications
 
 ---
 
-### 🗄️ Bases de Datos
+## 🗄️ Bases de Datos
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
+</p>
+
 - MySQL
 - PostgreSQL
 - MongoDB
 - Firebase
 - SQL Server
-- Diseño y optimización de queries
-- Modelado de datos
-- Replicación y performance tuning
+- Optimización y modelado de datos
 
 ---
 
-### ☁️ Cloud & DevOps
+## ☁️ Cloud, DevOps & Infraestructura
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=gcp,docker,linux,nginx,githubactions" />
+</p>
+
 - Google Cloud Platform (GCP)
 - Cloud Run
 - Load Balancers
 - CI/CD Pipelines
-- Docker
-- Deploy automático
-- Infraestructura escalable
-- Manejo de entornos (Dev / QA / Prod)
-- Server administration (Linux)
+- Docker Containers
+- GitHub Actions
+- Linux Server Administration
 - Nginx / Apache
 - DNS & Networking
-- SSL / Seguridad web
+- SSL & Seguridad Web
 
 ---
 
-### 🔄 DevOps & Automatización
-- Integración y Despliegue Continuo (CI/CD)
-- GitHub Actions
-- Contenedores Docker
-- Versionamiento con Git
-- Automatización de builds y deploys
-- Monitoreo y logging
+## 🔄 DevOps & Automatización
 
----
-
-### 🧩 Arquitectura & Buenas Prácticas
-- Arquitectura basada en microservicios
-- API First Design
-- Clean Code
-- SOLID Principles
-- Optimización de rendimiento
-- Seguridad en aplicaciones web
+- Integración Continua (CI)
+- Despliegue Continuo (CD)
+- Automatización de pipelines
+- Manejo de entornos Dev / QA / Production
+- Monitoreo y Logging
 - Escalabilidad horizontal
 
 ---
 
-## 📊 Actualmente trabajando en
-- Plataformas SaaS escalables
-- Aplicaciones móviles cross-platform
+## 🧩 Arquitectura & Buenas Prácticas
+
+- Clean Architecture
+- SOLID Principles
+- Microservicios
+- API REST & GraphQL
+- Clean Code
+- Performance Optimization
+- Seguridad en aplicaciones
+
+---
+
+## 📊 Actualmente
+
+🚀 Construyendo:
+- Plataformas SaaS
+- Apps móviles multiplataforma
 - Infraestructura cloud automatizada
-- Sistemas empresariales ERP & APIs
+- Sistemas empresariales ERP
 
 ---
 
 ## 📫 Contacto
 
-- 🌐 Portfolio: *(agrega aquí tu web)*
-- 💼 LinkedIn: *(agrega tu perfil)*
-- 📧 Email: *(tu correo profesional)*
+- 🌐 Portfolio: (tu web)
+- 💼 LinkedIn: (tu linkedin)
+- 📧 Email: (tu email)
 
 ---
 
-⭐ *Siempre aprendiendo nuevas tecnologías y construyendo soluciones que generen impacto.*
+⭐ *Always learning. Always building.*
