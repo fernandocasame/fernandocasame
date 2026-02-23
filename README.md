@@ -5,48 +5,31 @@
 
 ---
 
-## 🧑‍💻 Sobre mí
-
-Desarrollador Full Stack especializado en backend, frontend, mobile y cloud infrastructure.  
-Experiencia en diseño de arquitecturas escalables, automatización DevOps, workflows inteligentes y despliegues en Google Cloud.
-
----
-
 ## 🧠 Lenguajes de Programación
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=php,java,python,nodejs,cs,js,ts" />
 </p>
-
-- Laravel (PHP)
-- Java
-- Python
-- Node.js
-- C#
-- JavaScript / TypeScript
 
 ---
 
 ## 🎨 Frontend & Mobile
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,reactnative,flutter,nuxtjs,tailwind,html,css" />
+<p>
+  <img src="https://skillicons.dev/icons?i=next,react,flutter,nuxt,tailwind,html,css" />
 </p>
 
 - Next.js
-- React
-- React Native
+- React / React Native
 - Flutter
-- Nuxt.js
-- Tailwind CSS
-- Responsive & Mobile First Design
-- Progressive Web Apps (PWA)
+- Nuxt
+- TailwindCSS
 
 ---
 
 ## 🗄️ Bases de Datos
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
 </p>
 
@@ -55,52 +38,36 @@ Experiencia en diseño de arquitecturas escalables, automatización DevOps, work
 - MongoDB
 - Firebase
 - SQL Server
-- Modelado y optimización de datos
 
 ---
 
 ## ☁️ Cloud, DevOps & Infraestructura
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=gcp,docker,linux,nginx,githubactions" />
 </p>
 
-- Google Cloud Platform (GCP)
+- Google Cloud Platform
 - Cloud Run
 - Load Balancers
-- Docker Containers
-- CI/CD Pipelines
-- GitHub Actions
-- Linux Server Administration
+- Docker
+- CI/CD
+- Linux Servers
 - Nginx / Apache
-- DNS & Networking
-- SSL & Seguridad Web
 
 ---
 
-## ⚡ Automatización & Integraciones
+## ⚡ Automatización & Workflows
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=n8n" />
+<p>
+  <!-- n8n logo -->
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" alt="n8n"/>
 </p>
 
 - n8n Workflow Automation
 - Integración de APIs
-- Automatización de procesos
-- Webhooks & Event-driven workflows
+- Webhooks & automatización de procesos
 - Orquestación de servicios
-- Automatización empresarial (ERP / SaaS)
-
----
-
-## 🔄 DevOps & Automatización
-
-- Integración Continua (CI)
-- Despliegue Continuo (CD)
-- Automatización de pipelines
-- Manejo de entornos Dev / QA / Production
-- Monitoreo y logging
-- Escalabilidad horizontal
 
 ---
 
@@ -112,7 +79,7 @@ Experiencia en diseño de arquitecturas escalables, automatización DevOps, work
 - API REST & GraphQL
 - Clean Code
 - Performance Optimization
-- Seguridad en aplicaciones
+- Seguridad Web
 
 ---
 
@@ -122,8 +89,8 @@ Experiencia en diseño de arquitecturas escalables, automatización DevOps, work
 - Plataformas SaaS
 - Apps móviles multiplataforma
 - Automatizaciones con n8n
-- Infraestructura cloud automatizada
-- Sistemas empresariales ERP
+- Infraestructura cloud en GCP
+- Sistemas ERP empresariales
 
 ---
 
@@ -135,4 +102,4 @@ Experiencia en diseño de arquitecturas escalables, automatización DevOps, work
 
 ---
 
-⭐ *Always learning. Always building.*
+⭐ Always learning. Always building.
